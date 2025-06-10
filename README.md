@@ -1,6 +1,6 @@
 # vca-unit
 
-WARNING: The module is not fully tested yet!
+WARNING: The module has not been fully tested yet!
 
 This is a compact VCA (Voltage-Controlled Amplifier) unit that operates without any additional
 external components. Its small form factor — approximately 22mm × 10.5mm — makes it ideal for
