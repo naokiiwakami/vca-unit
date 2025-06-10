@@ -21,5 +21,5 @@ Following is a simple usage of the unit.
 
 This repository provides KiCAD project, symbol, and footprint of the unit.
 
-The following is the schematics of the unit. No trimming is required for assembly.
+Here is the schematics of the unit. No trimming is required for assembly.
 <img src="docs/vca-unit.svg" alt="vca-unit-schematic" width="100%" />
