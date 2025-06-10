@@ -2,24 +2,24 @@
 
 WARNING: The module is not fully tested yet!
 
-This is a small VCA unit that works without any additional components.
-The module is built so small that it is suitable to be used as a sub module in a larger
-synth project. The board size is about 22mm x 10.5mm.
-There are six pins on the module; two rows with 2.54mm pitch that are seven pitches apart.
-You can run the module on a breadboard, too.
+This is a compact VCA (Voltage-Controlled Amplifier) unit that operates without any additional
+external components. Its small form factor — approximately 22mm × 10.5mm — makes it ideal for
+integration as a submodule in larger synthesizer projects. The module features six pins arranged
+in two rows with a 2.54mm pitch, spaced seven pitches apart. It is also compatible with standard
+breadboards..
 
 ![board-3d-image](docs/board-3d.png)
 
-The unit is tested with +/-12V symmetrical power supply. Basic specifications are:
+The unit has been tested with a ±12V symmetrical power supply. Basic specifications are as follows:
 
-- Input signal range: -8V to 8V, recommended to fit within -5V to 5V
-- CV range: 0V to 8V, unity gain at about 4.6V
+- **Input signal range:** -8V to +8V (recommended: -5V to +5V)
+- **CV range**: 0V to 8V *(unity gain is achieved at approximately 4.6V)*
 
-Following is a simple usage of the unit.
+Below is a simple usage of the module.
 
 <img src="docs/example/images/example.svg" alt="vca-unit-usage" width="100%" />
 
-This repository provides KiCAD project, symbol, and footprint of the unit.
+This repository includes the KiCad project files, along with the symbol and footprint for the unit.
 
-Here is the schematics of the unit. No trimming is required for assembly.
+The schematic is shown below.  Assembly does not require any trimming or calibration.
 <img src="docs/vca-unit.svg" alt="vca-unit-schematic" width="100%" />
