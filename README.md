@@ -13,7 +13,7 @@ You can run the module on a breadboard, too.
 The unit is tested with +/-12V symmetrical power supply. Basic specifications are:
 
 - Input signal range: -8V to 8V, recommended to fit within -5V to 5V
-- CV range: 0V to 8V, unity gain $\approx$ 4.6V
+- CV range: 0V to 8V, unity gain at about 4.6V
 
 Following is a simple usage of the unit.
 
