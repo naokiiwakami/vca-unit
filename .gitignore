@@ -1,0 +1,8 @@
+*plots*
+fp-*
+*-backups
+panelized
+*-bak
+*.bak
+*.wbk
+*.kicad_jobset
